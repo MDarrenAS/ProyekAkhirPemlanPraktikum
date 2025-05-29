@@ -1,5 +1,3 @@
-
-
 /**
  * Subclass dari Doctor untuk merepresentasikan dokter spesialis.
  * Modul 6: Overload, Override, Polimorfisme
