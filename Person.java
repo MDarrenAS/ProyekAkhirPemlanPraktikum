@@ -1,4 +1,3 @@
-// File: Person.java
 /**
  * Modul 5: Class Abstract dan Interface
  * Abstract class dasar untuk merepresentasikan seseorang di klinik.
